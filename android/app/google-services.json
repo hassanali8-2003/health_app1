@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "237200109009",
+    "project_id": "fcm1-12d87",
+    "storage_bucket": "fcm1-12d87.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237200109009:android:137f0a823683e6cc8c44f0",
+        "android_client_info": {
+          "package_name": "com.example.health_app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUtfS6ADltidqn58ZZF0syaB3zMwHvVA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237200109009:android:c69fae6fc4a5135d8c44f0",
+        "android_client_info": {
+          "package_name": "com.example.pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUtfS6ADltidqn58ZZF0syaB3zMwHvVA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
