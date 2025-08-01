@@ -44,8 +44,7 @@ SmartCare is a modern **Flutter-based mobile application** designed to simplify 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/smartcare.git
-
+   git clone https://github.com/hassanali8-2003/health_app1.git
 
 2. **Install dependencies:**
 
@@ -87,7 +86,7 @@ lib/
 
 **Hassan Ali**
 🔗 [LinkedIn](https://www.linkedin.com/in/hassan-ali-258021283/)
-🐙 [GitHub](https://github.com/yourusername)
+🐙 [GitHub](https://github.com/hassanali8-2003)
 
 ---
 
