@@ -32,6 +32,8 @@ SmartCare is a modern **Flutter-based mobile application** designed to simplify 
 ---
 
 ## 📱 Screenshots
+- 📅 **Mobile View**  
+
 ![Homepage](ss/h1.png)
 ![Homepage](ss/h2.png)
 ![Homepage](ss/h3.png)
@@ -49,8 +51,9 @@ SmartCare is a modern **Flutter-based mobile application** designed to simplify 
 ![Homepage](ss/h15.png)
 ![Homepage](ss/h16.png)
 
+- 📅 Web View**  
 
-
+https://healthappai.netlify.app/
 
 
 ## ✅ Getting Started
