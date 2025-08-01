@@ -128,7 +128,3 @@ furnished to do so, subject to the following conditions:
 
 > Feel free to fork this project, contribute to it, or open issues!
 
-```
-
-Let me know if you'd like me to export this as a downloadable `.md` file or add badges (e.g., build passing, made with Flutter, etc.).
-```
