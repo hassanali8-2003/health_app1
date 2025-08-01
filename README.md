@@ -32,7 +32,23 @@ SmartCare is a modern **Flutter-based mobile application** designed to simplify 
 ---
 
 ## 📱 Screenshots
-(ss/h1.png)
+![Homepage](ss/h1.png)
+![Homepage](ss/h2.png)
+![Homepage](ss/h3.png)
+![Homepage](ss/h4.png)
+![Homepage](ss/h5.png)
+![Homepage](ss/h6.png)
+![Homepage](ss/h7.png)
+![Homepage](ss/h8.png)
+![Homepage](ss/h9.png)
+![Homepage](ss/h10.png)
+![Homepage](ss/h11.png)
+![Homepage](ss/h12.png)
+![Homepage](ss/h13.png)
+![Homepage](ss/h14.png)
+![Homepage](ss/h15.png)
+![Homepage](ss/h16.png)
+
 
 
 
