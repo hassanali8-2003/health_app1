@@ -32,10 +32,7 @@ SmartCare is a modern **Flutter-based mobile application** designed to simplify 
 ---
 
 ## 📱 Screenshots
-
-| Home Screen | Appointment Booking | AI Chat |
-|-------------|----------------------|---------|
-| ![Home](screenshots/home.png) | ![Appointment](screenshots/appointment.png) | ![Chat](screenshots/chat.png) |
+(ss/h1.png)
 
 
 
